@@ -1,0 +1,17 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "simple http-server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "mRq",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
