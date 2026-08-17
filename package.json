@@ -1,6 +1,6 @@
 {
   "name": "http-server",
-  "version": "2.0.0",
+  "version": "2.1.1",
   "description": "simple http-server",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,7 @@
   "type": "module",
   "dependencies": {
     "express": "^5.2.1",
-    "nodemon": "^3.1.14"
+    "nodemon": "^3.1.14",
+    "read-last-lines": "^1.10.0"
   }
 }
