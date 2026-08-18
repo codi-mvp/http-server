@@ -20,15 +20,15 @@
 ## Features
 
 - Starting on port 8000(default), in console you see server logs.
-<p align="center">
+<p>
   <img src="customize/console.png" width="400" alt="Моя гифка">
 </p>
 - Every request saving to *counter.json* with time.
-<p align="center">
+<p>
   <img src="customize/json.png" width="400" alt="Моя гифка">
 </p>
 - The counter resets after every 100 requests, but its last value is preserved.
-<p align="center">
+<p>
   <img src="customize/process.gif" width="400" alt="Моя гифка">
 </p>
 
