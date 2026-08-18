@@ -3,7 +3,6 @@
   <img src="customize/browser.png" width="300" alt="Browser Preview">
   <h1>Simple HTTP Server 🔌</h1>
   <h2>This <i>HTTP server</i> is written in <b>Node.js</b> with the popular framework <b>Express.js</b>.</h2>
-  </div>
 
 <a> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" /> </a>
 <a> <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" /> </a>
