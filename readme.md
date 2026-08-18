@@ -1,13 +1,15 @@
-<header align="center">
+<header>
+<div align="center">
   <img src="customize/browser.png" width="300" alt="Browser Preview">
   <h1>Simple HTTP Server 🔌</h1>
   <h2>This <i>HTTP server</i> is written in <b>Node.js</b> with the popular framework <b>Express.js</b>.</h2>
+  </div>
 
 <a> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" /> </a>
 <a> <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" /> </a>
 <a> <img src="https://img.shields.io/badge/License-MIT-blue" /> </a></n>
 <a href="https://github.com/codi-mvp">
-  <img src="https://img.shields.io/badge/Author-mRq-181717.svg?logo=github&style=flat" alt="GitHub">
+<img src="https://img.shields.io/badge/Author-mRq-181717.svg?logo=github&style=flat" alt="GitHub">
 </a>
 
 </div>
@@ -21,7 +23,7 @@
 <p>
   <img src="customize/console.png" width="400" alt="Моя гифка">
 </p>
-- Every request saving to *counter.json* with time.
+- Every request saving to _counter.json_ with time.
 <p>
   <img src="customize/json.png" width="400" alt="Моя гифка">
 </p>
@@ -37,7 +39,6 @@
 ```http
   GET /
 ```
-
 
 ## Run Locally
 
@@ -64,4 +65,3 @@ Start the server
 ```bash
   npm start
 ```
-
