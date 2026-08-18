@@ -8,7 +8,7 @@
 <a> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" /> </a>
 <a> <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" /> </a>
 <a> <img src="https://img.shields.io/badge/License-MIT-blue" /> </a></n>
-<a href="https://github.com">
+<a href="https://github.com/codi-mvp">
   <img src="https://img.shields.io/badge/Author-mRq-181717.svg?logo=github&style=flat" alt="GitHub">
 </a>
 
