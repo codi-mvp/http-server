@@ -57,9 +57,6 @@ app.use(async (req, res, next) => {
     console.log(`_____COUNTER WAS RESET AT ${globalCounter} VISITS`);
   }
   await writeJson("counter.json", globalCounter, "globalVisits");
-
-  
-
   next();
 });
 
@@ -85,7 +82,7 @@ app.get("/", async (req, res) => {
         `);
 });
 
-initServer()
+await initServer()
 const PORT = 8000;
 app.listen(PORT, () => {
   console.log(`    Server running on http://localhost:${PORT}`);
